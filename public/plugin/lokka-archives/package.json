@@ -25,7 +25,7 @@
     "react-dom": "16.13.1",
     "react-router-dom": "5.2.0",
     "webpack": "4.44.2",
-    "webpack-cli": "3.3.11",
+    "webpack-cli": "3.3.12",
     "webpack-manifest-plugin": "2.2.0"
   },
   "scripts": {
